@@ -10,6 +10,7 @@ sudo pip3 install tesseract
 ``` 
 
 ###另外还需要安装tesseract
+
 ####MAC
 ```
 brew install tesseract
@@ -22,7 +23,7 @@ Usage  本程序用于查看本人社保信息
        -i --id       个人身份证信息(必选) 
        -p --password 登陆密码(必选) 
        -y --year     查看社保年份 (可选,默认为今年) 
-       -h --help     查看>帮助信息
+       -h --help     查看帮助信息
 
 ```
 
