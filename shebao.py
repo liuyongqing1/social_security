@@ -75,7 +75,7 @@ def main():
         'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'
     }
 
-    usage='Usage  本程序用于查看本人社保信息 \n       -i --id       个人身份证信息(必选) \n       -p --password 登陆密码(必选) \n       -y --year     查看社保年份 (可选,默认为今年) \n       -h --help     查看>帮助信息'
+    usage='Usage  本程序用于查看本人社保信息 \n       -i --id       个人身份证信息(必选) \n       -p --password 登陆密码(必选) \n       -y --year     查看社保年份 (可选,默认为今年) \n       -h --help     查看帮助信息'
 
     dic={
         'unemployment':'失业',
